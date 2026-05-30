@@ -1,3 +1,19 @@
+#### Documento del laboratorio
+
+📄 Informe completo:
+
+[Gestión y Optimización de Procesos en Linux](./laboratorio-procesos-linux/Gestión%20y%20Optimización%20de%20Procesos%20en%20LinuxE.pdf)
+
+#### Herramientas utilizadas
+
+* Docker
+* Ubuntu sobre WSL2
+* Linux CLI
+* htop
+* stress
+* cpulimit
+* Python 3
+* Git y GitHub
 # 🐳 Docker Lab — Entorno de Desarrollo con WSL2
 
 ## 👥 Autores
@@ -75,3 +91,24 @@ docker compose down
 ```
 
 ## 📁 Estructura del proyecto
+
+
+
+
+#### Documento del laboratorio
+
+📄 Informe completo:
+
+[Gestión y Optimización de Procesos en Linux](./laboratorio-procesos-linux/Gestión%20y%20Optimización%20de%20Procesos%20en%20LinuxE.pdf)
+
+#### Herramientas utilizadas
+
+* Docker
+* Ubuntu sobre WSL2
+* Linux CLI
+* htop
+* stress
+* cpulimit
+* Python 3
+* Git y GitHub
+
